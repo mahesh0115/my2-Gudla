@@ -18,6 +18,5 @@ Sports and physical activities are a great way to stay healthy and have fun. Her
 | Yoga            | Yoga offers physical and mental benefits. It enhances flexibility, reduces stress, and promotes relaxation. Perfect for mindfulness and balance. | 2-4 hours  |
 | Rock Climbing   | Rock climbing is an adventurous sport that builds strength and problem-solving skills. Indoor climbing gyms make it accessible year-round. | 3-5 hours  |
 
-| Table Tennis       | Table tennis is a fast-paced indoor sport that improves reflexes and concentration. It's perfect for social gatherings. | 3-4 hours  |
 
 ---
