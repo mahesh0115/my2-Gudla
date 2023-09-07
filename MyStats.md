@@ -3,3 +3,21 @@
 During my career, I've collaborated with engineers from around the world on international infrastructure projects, fostering cross-cultural understanding and sharing knowledge to solve complex engineering challenges
 
 ![My Image](myImage.jpeg)
+
+## Recommended Sports and Activities
+
+---
+
+Sports and physical activities are a great way to stay healthy and have fun. Here are four activities that I recommend trying:
+
+
+| Sport/Activity  | Why I Recommend It                  | Hours/Week |
+|-----------------|------------------------------------|------------|
+| Hiking          | Hiking allows you to connect with nature, get some fresh air, and stay active. It's a great way to explore scenic trails and enjoy the outdoors. | 4-6 hours  |
+| Tennis          | Tennis is a dynamic sport that improves agility and coordination. It's also an excellent way to challenge yourself in singles or enjoy doubles with friends. | 3-5 hours  |
+| Yoga            | Yoga offers physical and mental benefits. It enhances flexibility, reduces stress, and promotes relaxation. Perfect for mindfulness and balance. | 2-4 hours  |
+| Rock Climbing   | Rock climbing is an adventurous sport that builds strength and problem-solving skills. Indoor climbing gyms make it accessible year-round. | 3-5 hours  |
+
+| Table Tennis       | Table tennis is a fast-paced indoor sport that improves reflexes and concentration. It's perfect for social gatherings. | 3-4 hours  |
+
+---
