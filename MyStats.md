@@ -35,7 +35,7 @@ Sports and physical activities are a great way to stay healthy and have fun. Her
 
 ---
 
-## code snippet
+## code Fencing
 
 ---
 > How do I import a CSV file into MySQL?
