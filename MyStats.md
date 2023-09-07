@@ -20,3 +20,16 @@ Sports and physical activities are a great way to stay healthy and have fun. Her
 
 
 ---
+
+## Pithy Quotes by Scientists
+
+---
+
+> "Science is a way of thinking much more than it is a body of knowledge."  
+> — *Carl Sagan*
+
+> "The most beautiful thing we can experience is the mysterious. It is the source of all true art and science." 
+> — *Albert Einstein*
+
+
+---
