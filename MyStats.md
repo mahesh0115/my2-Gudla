@@ -34,3 +34,19 @@ Sports and physical activities are a great way to stay healthy and have fun. Her
 
 
 ---
+
+## code snippet
+
+---
+> How do I import a CSV file into MySQL?
+<https://stackoverflow.com/questions/4083221/how-to-redirect-all-http-requests-to-https-using-htaccess-rules>
+
+
+```
+RewriteEngine on
+RewriteCond %{HTTPS} !on
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
+
+```
+
+<https://css-tricks.com/snippets/htaccess/force-https/>
