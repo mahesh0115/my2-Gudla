@@ -15,3 +15,5 @@ Hyderabad has many places to chillout like **Charmniar**, **Golconda**,etc..
  * Masqati Ice cream
  * Mandi
  * Haleem and etc....
+
+  [MyStats Link](MyStats.md)
